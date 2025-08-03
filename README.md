@@ -15,13 +15,13 @@ You can enter your API key in the location specified in the Constants.kt file in
 
 ### Search City Screen 🔍
 
-○ A text input to enter a city name.
-○ A "Search" button.
-○ A card or section to display:
-■ City name
-■ Current temperature
-■ Weather condition (e.g., "Cloudy", "Rainy")
-■ An icon representing the weather (optional, bonus)
+    ○ A text input to enter a city name.
+    ○ A "Search" button.
+    ○ A card or section to display:
+    ■ City name
+    ■ Current temperature
+    ■ Weather condition (e.g., "Cloudy", "Rainy")
+    ■ An icon representing the weather 
 
 🏗️ Tech Stack
 
