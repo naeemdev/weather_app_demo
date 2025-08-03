@@ -83,10 +83,13 @@ com/
 🚀 How to Run the App
 
 1️⃣ Download the code
+
 2️⃣ Open in Android Studio : Sync Gradle and install dependencies
 Open the project in Android Studio Android Studio Narwhal | 2025.1.1 Patch 1 or newer.
 Ensure you have an Android Emulator or a Physical Device connected.
+
 3️⃣ Run the App
+
 ./gradlew build && ./gradlew installDebug
 Or, simply press Run ▶️ in Android Studio.
 
