@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="error_no_internet">No internet connection. Please check your network and try again.</string>
+    <string name="error_forbidden">You don\'t have permission to access this resource.</string>
+    <string name="error_unauthorized">Invalid or missing API key. Please check your API key and try again.</string>
+    <string name="error_unknown">Something went wrong.Please try again later or Enter correct city name.</string>
+    <string name="error_no_data">No data available to display.</string>
+    <string name="error_internal_server">Server error occurred. Please try again after some time.</string>
+    <string name="error_io_exception">A network or system error occurred. Please try again.</string>
+    <string name="empty_field_error">Please enter the city name</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+    <string name="ok">OK</string>
+    <string name="an_unknown_error_occurred">An unknown error occurred.</string>
+    <string name="oooops">OOOOPS!!!</string>
+    <string name="search_result_for">Search result for %1$s</string>
+    <string name="sorry_no_data_found">Sorry no data found</string>
+</resources>
