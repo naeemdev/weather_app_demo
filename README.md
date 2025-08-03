@@ -1,4 +1,4 @@
-# Jetpack Compose WeatherApp 🌡
+# Android Jetpack Compose WeatherApp 
 
 WeatherApp is an application that shows you the weather according to enter city.
 
